@@ -1,4 +1,4 @@
-//square position is hard-coded for testing purposes, considering rewriting this
+//square position is hard-coded for testing purposes
 
 var canvas = document.createElement('canvas');
 document.body.appendChild(canvas);
